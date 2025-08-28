@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Jain</h1>
-<h3 align="center">💻 Full-Stack Developer | 🛠️ Tech Enthusiast | 🇮🇳 Based in India</h3>
+<h3 align="center">💻 Full-Stack Developer | 🛠️ Tech Enthusiast | From India</h3>
 ---
 
 ### 👨‍💻 About Me
