@@ -10,9 +10,7 @@
 ---
 
 ### 👨‍💻 About Me
-
-- 🔭 Currently building **Shopify Apps** and working on **Web Development Projects**
-- 🌱 Exploring **Next.js**, **FastAPI**, and **Cloud Deployment**
+- 🌱 Exploring **Next.js**, **FastAPI**, **Docker** and **Cloud Deployment**
 - 💡 Passionate about solving problems on **LeetCode** and crafting side projects
 - 📫 Reach me at: **jain.prince.x@gmail.com**
 - ⚡ Fun fact: I debug more than I code 😅
