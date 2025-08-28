@@ -49,8 +49,8 @@ Git • Docker • Linux • GCP • Vercel • Shopify CLI
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prince7-jain&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prince7-jain&layout=compact&theme=radical" alt="Top Languages" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prince7-jain&layout=compact&theme=radical" alt="Top Languages" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince7-jain&theme=radical" alt="GitHub Streak" />
 </p>
 
